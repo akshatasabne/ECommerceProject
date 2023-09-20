@@ -1,0 +1,63 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color:pink;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.navbar-brand i{
+    margin-left:10px;
+    color:aliceblue;
+}
+.demo {
+    margin-top: 31px;
+    text-align:center;
+}
+.sample {
+    margin-top: 30px;
+}
+.sample2 {
+    margin-top: 30px;
+}
+
+.c2 {
+    height: 304px;
+}
+.c3 {
+    height: 304px;
+}
+.pin{
+    height:400px;
+    width:400px;
+}
+.s1 {
+    height: 400px;
+    width: 400px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.cardimage:hover {
+    opacity: 0.7;
+}
+.cardimage{
+    margin-top:10px;
+}
+.name{
+    background-color:rebeccapurple;
+    font-weight:700;
+}
